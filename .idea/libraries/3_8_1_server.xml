@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="3.8.1-server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/polymer-cli/node_modules/selenium-standalone/.selenium/selenium-server/3.8.1-server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

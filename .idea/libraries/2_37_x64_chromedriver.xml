@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="2.37-x64-chromedriver">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/node_modules/polymer-cli/node_modules/selenium-standalone/.selenium/chromedriver/2.37-x64-chromedriver.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
